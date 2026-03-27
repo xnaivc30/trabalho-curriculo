@@ -10,3 +10,29 @@ hr{
 .f1{
     font-family: 'Courier New', Courier, monospace;
 }
+
+nav{
+    background-color:#c99ed1;
+    padding:1px;
+    position: absolute;
+    top: 0%;
+    width: 100%;
+    left: 0;
+}
+
+
+
+footer {
+    text-align:center;
+    left:0;
+    bottom:0;
+    width:100%;
+    padding:10px
+}
+
+footer{
+    background-color: #c99ed1;
+}
+
+
+   
